@@ -8,7 +8,7 @@
             "email": "nsmprogramador@gmail.com"
         }
     ],
-    "minimum-stability": "0.0.1",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {},
     "autoload": {
