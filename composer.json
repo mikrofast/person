@@ -10,7 +10,5 @@
     ],
     "autoload": {
         "psr-4": {"Natsanmel\\": "src/"}
-    },
-     "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
