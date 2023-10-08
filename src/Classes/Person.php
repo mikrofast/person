@@ -1,7 +1,6 @@
 <?php
 namespace Natsanmel\Classes;
 class Person {
-	
 	private string $fname = "";
 	private string $lname = "";
 	private string $dbirth = "";
